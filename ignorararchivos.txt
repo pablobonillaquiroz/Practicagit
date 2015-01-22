@@ -1,0 +1,7 @@
+Mediante un archivo .gitignore se especifican los nombres de los archivos (con su extensión) a ignorar. Ejemplo:
+
+archivoaignorar.txt
+
+En caso de querer ignorar todos los archivos con una misma extensión, se usa un asterisco y la extensión de los archivos. Ejemplo:
+
+*.exe
